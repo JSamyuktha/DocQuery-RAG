@@ -13,3 +13,6 @@ chroma_db/
 
 # VS Code settings
 .vscode/
+
+documents/*.pdf
+
